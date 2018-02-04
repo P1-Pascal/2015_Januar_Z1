@@ -84,7 +84,7 @@ begin
     if loadMatrix(m, n, len) then
       encript(m, k, n, len);
 
-  readln();
+  //readln();
 
 end.
 
